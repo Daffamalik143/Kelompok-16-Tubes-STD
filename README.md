@@ -1,7 +1,9 @@
 # Kelompok-16-Tubes-STD
 
+
 Judul : Data Buku
-Descripsi : implementasikan multi linked-list yang memodelkan data penulis
+
+Deskripsi : implementasikan multi linked-list yang memodelkan data penulis
 
 dan data buku beserta relasi keduanya. Seorang penulis bisa menulis banyak buku,
 
